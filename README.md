@@ -1,19 +1,14 @@
-<div align="center">
-  <img height="300" src="https://cdn.dribbble.com/users/2552489/screenshots/16773236/media/f9558e3a4f065c6be66d5d33564b2683.png?resize=768x576&vertical=center"  />
-</div>
+# Hi, I'm Ismail Ouchaou! 👋
 
-###
+I'm a passionate **Back-End Developer** with over two years of experience building scalable web applications using **Laravel**, **PHP**, and **Vue.js**. I specialize in crafting clean, efficient, and secure APIs and back-end systems, thriving in collaborative teams to deliver robust solutions. My focus is on continuous learning, mastering modern frameworks, and contributing to innovative projects.
 
-<h1 align="left">Hi there, I'm Ismail Ouchaou! 👋</h1>
+## About Me
 
-###
-
-<p align="left">I'm a back-end developer with a passion for clean, efficient code and robust web solutions. Thrives in team environments and dedicated to continuous learning and industry trends.</p>
-
-###
-
-<p align="left">- 👀 I’m interested in building dynamic web applications and exploring emerging technologies.<br>- 🌱 I’m currently honing my skills in Laravel/Vue.<br>- 🎯 Goals: To collaborate on projects that challenge me and allow me to grow both personally and professionally.<br>- 🎲 Fun fact: I'm funny XD</p>
-
+- 🌟 **What I Do**: Design and develop dynamic, high-performance web applications with a focus on RESTful APIs, MySQL databases, and unit testing.
+- 🎯 **2025 Goals**: Contribute to open-source Laravel projects, master advanced **Laravel** tools (e.g., Livewire, Inertia.js), and grow my freelance presence.
+- 🌱 **Currently Learning**: Deepening expertise in **Laravel** ecosystem and **Node.js** for scalable APIs.
+- 💡 **Fun Fact**: I bring humor to code reviews, making debugging sessions more enjoyable! 😄
+- 📍 **Based In**: My home, Because I work remotely.
 ###
 
 <h2 align="left">- 👨‍💻 Languages and tools</h2>
@@ -77,14 +72,14 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ismailouchaou/" target="_blank">
+  <a href="https://www.linkedin.com/in/ismailouchadev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/ismail.ouchaou" target="_blank">
+  <a href="https://www.instagram.com/ismailouchadev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/14826652/ismail-ouchaou" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <a href="https://x.com/ismailouchadev" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
 
